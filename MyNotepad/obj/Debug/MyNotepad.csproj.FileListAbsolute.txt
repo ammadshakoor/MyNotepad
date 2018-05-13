@@ -1,0 +1,18 @@
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojResolveAssemblyReference.cache
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.Cache
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\29321\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojResolveAssemblyReference.cache
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+E:\IU\6th Semester Fall17'\VisualProgrammingLanguages\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.Cache
